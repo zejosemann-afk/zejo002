@@ -1,4 +1,4 @@
-# Local Bridge (working title)
+# Local Bridge (Rino project)
 
 A simple, offline-first companion between an **Android phone** and a **Windows PC**: copy and paste, file transfer, notifications, remote lock and unlock, and later a personal assistant that can act across both devices with permissions you grant one by one.
 
